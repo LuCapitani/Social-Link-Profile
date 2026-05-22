@@ -41,7 +41,7 @@ Users should be able to:
 
 **Mobile Version**
 
-![Design preview for Social Link Profile mobile](/assets/image/mobile-design.jpg)
+![Design preview for Social Link Profile mobile](/assets/images/mobile-design.jpg)
 
 ---
 
