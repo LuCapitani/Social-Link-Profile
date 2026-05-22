@@ -1,60 +1,96 @@
-# Frontend Mentor - Social Link Profile solution
+# Social Link Profile - Frontend Mentor
 
-This is a solution to the [Social Link Profile challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3d01/start). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+---
 
-## Table of contents
+![Design preview for Social Link Profile challenge](/assets/images/preview.jpg)
+
+## Table of Contents
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+  - [Challenge](#challenge)
+  - [Screenshot](#screenshot)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
 - [Author](#author)
 
+---
 
 ## Overview
 
+### Challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size (mobile and desktop)
+- See hover and focus states for all interactive elements (social links)
+- View the profile card with proper spacing, typography, and border-radius
+- Navigate through links using keyboard (accessibility)
+
+---
+
+### Screenshot
+
+**Desktop Version**
+
+![Design preview for Social Link Profile desktop](/assets/images/desktop-design.jpg)
+
+---
+
+**Mobile Version**
+
+![Design preview for Social Link Profile mobile](/assets/image/mobile-design.jpg)
+
+---
+
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/LuCapitani/Social-Link-Profile)
-- Live Site URL: [Projeto Social Link Profile](https://lucapitani.github.io/Social-Link-Profile/)
+- **Solution URL:** https://github.com/LuCapitani/Social-Link-Profile
+- **Site URL:** https://lucapitani.github.io/Social-Link-Profile/
 
-## My process
+---
 
-### Built with
+## My Process
 
-- Semantic HTML5 markup
-- CSS custom properties (Variáveis)
-- Flexbox
+### Built With
+
+- Semantic HTML5
+- CSS (Flexbox / Responsive Design)
 - Mobile-first workflow
+- CSS custom properties (variables)
+- Google Fonts (Inter)
 
-### What I learned
+---
 
-Since I was already familiar with the technical requirements, my focus for this project was on **professional workflow**, **design fidelity**, and **responsive best practices**. 
+### What I Learned
 
-Key points reinforced:
-- **Design-to-Code Precision:** Implementing a project strictly following a `style-guide.md` to ensure the final result matches the original prototype.
-- **Modern and Scalable Styling:** Prioritizing relative units like `rem` and `em` over fixed `px` to ensure better accessibility, text scaling, and a fully responsive layout.
-- **Maintainable CSS:** Using CSS variables (`:root`) alongside scalable units for superior structure, easier theme management, and flexibility.
-- **Industry Standards:** Applying English naming conventions for classes and variables, following global development patterns.
+- Creating a centered profile card using Flexbox with `min-height: 100vh`
+- Using CSS custom properties in `:root` for maintainable colors and fonts
+- Implementing `:hover` and `:focus-visible` states for interactive links
+- Applying proper spacing with `gap` and `padding` in Flexbox layouts
+- Following a `style-guide.md` to ensure design fidelity
+- Using `rem` units for better accessibility and text scaling
 
+---
 
-### Useful resources
+### Continued Development
 
-- [Github Pages](https://docs.github.com/pt/pages) - Used for hosting the live site. It's an incredibly fast and efficient way to deploy static projects.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) - My go-to reference for checking CSS property details and ensuring cross-browser compatibility.
-- [Notion](https://www.notion.so) - I used Notion to create a Kanban board and manage my development tasks. This helped me stay organized and ensure all project requirements and accessibility checks were met.
+- Add more interactive states for keyboard navigation
+- Refactor CSS for better maintainability
+- Experiment with CSS Grid for future layouts
+- Improve accessibility with ARIA attributes
 
-
-### AI Collaboration
-
-I used **Gemini** as a development partner to optimize my process:
-- **Task Management:** Structuring a Kanban board in Notion to track development stages.
-- **Code Review:** Double-checking accessibility and naming conventions.
-- **Workflow Efficiency:** Using AI to brainstorm the most efficient way to document the project and manage Git commits.
+---
 
 ## Author
 
-- Frontend Mentor - [@LuCapitani](https://www.frontendmentor.io/profile/LuCapitani)
+- GitHub: [LuCapitani](https://github.com/LuCapitani)
+- Frontend Mentor: [LuCapitani](https://www.frontendmentor.io/profile/LuCapitani)
 
+---
+
+## Acknowledgments
+
+Thanks to Frontend Mentor for providing real-world design challenges and to the community for inspiration and feedback.
